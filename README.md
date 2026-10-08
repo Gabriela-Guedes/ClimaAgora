@@ -1,4 +1,4 @@
-🌤️ ClimaAgora
+🌤️ ClimaAgora 
 
 O ClimaAgora é uma aplicação web desenvolvida em Angular para consulta e monitoramento de informações meteorológicas em tempo real, oferecendo uma interface simples, rápida e intuitiva para os usuários acompanharem os dados do clima.
 
