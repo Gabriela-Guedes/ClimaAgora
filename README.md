@@ -17,7 +17,7 @@ O ClimaAgora é uma aplicação web desenvolvida em Angular para consulta e moni
 
  Problema e Público-Alvo
 
-- Problema: Dificuldade de acesso rápido, claro e sem poluição visual a previsões meteorológicas atualizadas.
+- Problema: Dificuldade de acesso rápido, claro e sem poluição visual a previsões meteorológicas atualizadas. 
 - Público-Alvo: Pessoas em geral (trabalhadores, estudantes e viajantes) que precisam consultar o clima diariamente de forma prática para o planejamento da rotina.
 
 ---
