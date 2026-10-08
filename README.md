@@ -76,5 +76,5 @@ O projeto é altamente viável e sustentável. A escolha do ecossistema Angular 
 
  Pré-requisitos
 - [Node.js](https://nodejs.org/) instalado.
-- [Angular CLI](https://angular.io/cli) instalado globalmente (`npm install -g @angular/cli`).
+- [Angular CLI](https://angular.io/cli) instalado globalmente (`npm install -g @angular/cli`). 
  
